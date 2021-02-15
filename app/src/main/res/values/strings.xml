@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Vremenska Prognoza</string>
+    <string name="weather_forecast_for">Vremenska prognoza za:</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="today_s_forecast">Prognoza za danas:</string>
+    <string name="view_details">Detaljna prognoza</string>
+    <string name="temperature">Temperatura:</string>
+    <string name="select_a_city_to_get_forecast_of">Odaberite grad za koji želite vidjeti prognozu:</string>
+    <string name="temp">Temperatura:</string>
+    <string name="humidity">Vlaga</string>
+    <string name="max_temperature">Max. Temperatura:</string>
+    <string name="min_temperature">Min. Temperatura:</string>
+    <string name="date">Datum:</string>
+    <string name="settings">Postavke</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="city_history">Povijest odabira</string>
+    <string name="options">Postavke</string>
+    <string name="detailed_forecast">DETALJNA PROGNOZA</string>
+    <string name="weekly_forecast">TJEDNA PROGNOZA</string>
+    <string name="select_a_city">ODABERI GRAD</string>
+    <string name="city_input_label">Ili unesite grad za kojeg želite vidjeti prognozu:</string>
+    <string name="edit_hint">Unesite naziv grada…</string>
+    <string name="tjedna_prognoza">TJEDNA PROGNOZA:</string>
+    <string name="odaberite_jednu_od_opcija">Odaberite jednu od opcija:</string>
+    <string name="detalji_prognoze">Detalji prognoze:</string>
+    <string name="povijest_odabira_pritisnite_grad_za_koji_elite_dobiti_prognozu">Povijest odabira (Pritisnite grad za koji želite dobiti prognozu…):</string>
+    <string-array name="cities_array">
+        <item>Zagreb</item>
+        <item>Split</item>
+        <item>Rijeka</item>
+        <item>Osijek</item>
+        <item>Zadar</item>
+        <item>Slavonski Brod</item>
+        <item>Pula</item>
+        <item>Sesvete</item>
+        <item>Kaštela</item>
+        <item>Karlovac</item>
+        <item>Sisak</item>
+        <item>Dubrovnik</item>
+        <item>Varaždin</item>
+        <item>Šibenik</item>
+        <item>Velika Gorica</item>
+        <item>Vinkovci</item>
+        <item>Vukovar</item>
+        <item>Bjelovar</item>
+        <item>Koprivnica</item>
+        <item>Đakovo</item>
+        <item>Požega</item>
+        <item>Zaprešić</item>
+        <item>Solin</item>
+        <item>Čakovec</item>
+        <item>Virovitica</item>
+        <item>Samobor</item>
+        <item>Kutina</item>
+        <item>Metković</item>
+        <item>Petrinja</item>
+        <item>Županja</item>
+        <item>Rovinj</item>
+        <item>Makarska</item>
+        <item>Nova Gradiška</item>
+        <item>Križevci</item>
+        <item>Sinj</item>
+        <item>Knin</item>
+        <item>Slatina</item>
+        <item>Trogir</item>
+        <item>Poreč</item>
+    </string-array>
+</resources>

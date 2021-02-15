@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008360414407",
+    "project_id": "vremenskaprognozagradovi",
+    "storage_bucket": "vremenskaprognozagradovi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008360414407:android:83527995e54050a2b672e2",
+        "android_client_info": {
+          "package_name": "com.example.vremenskaprognoza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008360414407-khelafjig6i8e3k5lv4q5d036au8eqp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7EFIdcdc99oDNmluEoYsY4H4MEauQ1G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008360414407-khelafjig6i8e3k5lv4q5d036au8eqp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
